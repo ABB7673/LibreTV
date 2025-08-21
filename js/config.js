@@ -585,8 +585,12 @@ const API_SITES = {
     "weidu": {
       "api": "https://weidu.com/api.php/provide/vod",
       "name": "维度资源"
-    }
-  }
+          },
+    testSource: {
+        api: 'https://www.example.com/api.php/provide/vod',
+        name: '空内容测试源',
+        adult: true
+    },
 };
 
 // 定义合并方法
