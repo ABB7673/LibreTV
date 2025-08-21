@@ -1,0 +1,51 @@
+    },
+    "lanbo": {
+      "api": "http://lanbo.com/api.php/provide/vod",
+      "name": "蓝波资源"
+    },
+    "lanniao": {
+      "api": "http://lanniao.com/api.php/provide/vod",
+      "name": "蓝鸟资源"
+    },
+    "mantian": {
+      "api": "http://mantian.com/api.php/provide/vod",
+      "name": "满天星资源"
+    },
+    "miaobo": {
+      "api": "https://miaobo.com/api.php/provide/vod",
+      "name": "秒播资源"
+    },
+    "qimao": {
+      "api": "http://qimao.com/api.php/provide/vod",
+      "name": "奇猫资源"
+    },
+    "qiyiguang": {
+      "api": "https://qiyiguang.com/api.php/provide/vod",
+      "name": "奇艺光资源"
+    },
+    "rihan": {
+      "api": "http://rihan.com/api.php/provide/vod",
+      "name": "日韩资源"
+    },
+    "ronghua": {
+      "api": "https://ronghua.com/api.php/provide/vod",
+      "name": "荣华资源"
+    },
+    "sijiu": {
+      "api": "http://49zy.com/api.php/provide/vod",
+      "name": "49资源"
+    },
+    "suku": {
+      "api": "http://suku.com/api.php/provide/vod",
+      "name": "速酷资源"
+    },
+    "wawa": {
+      "api": "http://wawa.com/api.php/provide/vod",
+      "name": "哇哇资源"
+    },
+    "weidu": {
+      "api": "https://weidu.com/api.php/provide/vod",
+      "name": "维度资源"
+    }
+  }
+}
